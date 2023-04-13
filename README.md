@@ -28,7 +28,7 @@ User Story 911
 
 # Demo here
 
-[Demo here](https://www.dropbox.com/s/td2qyrkqublhvv7/Presentation.mov?dl=0)
+[Demo video](https://www.dropbox.com/s/td2qyrkqublhvv7/Presentation.mov?dl=0)
 
 # Show Reels Backend
 
