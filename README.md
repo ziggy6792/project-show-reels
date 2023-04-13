@@ -1,7 +1,7 @@
 # Brief
 
 User Story 911
-<Creative Agency User> want <to create a new show reel from a collection of clips> in order to <present my agency commercials to the advertiser>
+**_Creative Agency User_** want **_to create a new show reel from a collection of clips_** in order to **_present my agency commercials to the advertiser_**
 Background
 
 - A show reel has name, video standard, video definition and total duration expressed as timecode (hh:mm:ss:ff)
