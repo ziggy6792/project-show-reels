@@ -2,7 +2,8 @@
 
 User Story 911
 **_Creative Agency User_** want **_to create a new show reel from a collection of clips_** in order to **_present my agency commercials to the advertiser_**
-Background
+
+# Background
 
 - A show reel has name, video standard, video definition and total duration expressed as timecode (hh:mm:ss:ff)
 - Video standard is either PAL or NTSC
