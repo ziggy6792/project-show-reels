@@ -33,9 +33,9 @@ Background
 
 ## Getting Started
 
-`cd show-reels-backend`
-`yarn install`
-`yarn start`
+- `cd show-reels-backend`
+- `yarn install`
+- `yarn start`
 
 ## Run Tests
 
@@ -45,8 +45,8 @@ Background
 
 ## Getting Started
 
-`cd show-reels-frontend`
-`yarn install`
+- `cd show-reels-frontend`
+- `yarn install`
 
 Make sure backend is running
 
